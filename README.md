@@ -11,7 +11,7 @@ Display Students – View all student records in a tabular format.
 Java – Programming language
 JDBC – Java Database Connectivity
 MySQL – Relational Database
-SQL – Queries for CRUD operations
+SQL – Queries for CRUD operation
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📁 Database Setup
 
